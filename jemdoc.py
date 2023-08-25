@@ -137,8 +137,8 @@ def standardconf():
   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-  <meta name="keywords" content="Yuzhe Ma, CUHK-CSE" />
-  <meta name="description" content="Yuzhe Ma's Homepage, CUHK-CSE" />
+  <meta name="keywords" content="Lancheng Zou, CUHK-CSE" />
+  <meta name="description" content="Lancheng Zou's Homepage, CUHK-CSE" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   
   [defaultcss]
@@ -218,7 +218,7 @@ def standardconf():
   
   [bodyend]
   <a title="web analytics" href="http://statcounter.com/"target="_blank"><img
-  src="//c.statcounter.com/11380057/0/ac5ac440/0/" alt="web
+  src="//c.statcounter.com/12906289/0/be08a441/0/" alt="web
   analytics" style="border:none;"></a>
   </body>
   </html>
