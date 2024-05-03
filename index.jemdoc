@@ -25,6 +25,7 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Recent News
 ~~~
+- May/2024: *Congratulation!* Our work on LLM Quantization has been accepted by ICML!
 - Jul/2023: *Congratulation!* Our work on multimodality-based congestion prediction has been accepted by ICCAD!
 ~~~
 
@@ -35,11 +36,13 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Publication
 #
-- \[C3\] Jiaxi Jiang, *Lancheng Zou*, Wenqian Zhao, Zhuolun He, Tinghuan Chen, Bei Yu, "PDRC: Package Design Rule Checking via GPU-Accelerated Geometric Intersection Algorithms for Non-Manhattan Geometry", Design Automation Conference (DAC), 2024
+- \[C4\] Lancheng Zou, Wenqian Zhao, Shuo Yin, Chen Bai, Qi Sun, Bei Yu, "BiE: Bi-Exponent Block Floating-Point for Large Language Models Quantization", International Conference on Machine Learning (ICML), Vienna, Jul. 21–27, 2024.
 #
-- \[C2\] Su Zheng\*, *Lancheng Zou\**, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023
+- \[C3\] Jiaxi Jiang, *Lancheng Zou*, Wenqian Zhao, Zhuolun He, Tinghuan Chen, Bei Yu, "PDRC: Package Design Rule Checking via GPU-Accelerated Geometric Intersection Algorithms for Non-Manhattan Geometry", Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024
 #
-- \[C1\] Su Zheng, *Lancheng Zou*, Siting Liu, Yibo Lin, Bei Yu, Martin D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
+- \[C2\] Su Zheng\*, *Lancheng Zou\**, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), San Francisco, Oct. 29–Nov. 02, 2023
+#
+- \[C1\] Su Zheng, *Lancheng Zou*, Siting Liu, Yibo Lin, Bei Yu, Martin D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
 
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
