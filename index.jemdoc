@@ -21,20 +21,26 @@
 
 
 == Biography
-I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. Prior to that, I obtained my B.Eng. degree in Electronic Information Engineering from [https://www.whu.edu.cn/ Wuhan University] in 2023.\n 
+I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. Prior to that, I obtained my B.Eng. degree in Electronic Information Engineering from [https://www.whu.edu.cn/ Wuhan University] in 2023.\n 
 
 == Recent News
 ~~~
+- Dec/2024: *Congratulation!* Our TCAD version of Lay-Net has been accepted!
 - May/2024: *Congratulation!* Our work on LLM Quantization has been accepted by ICML!
 - Jul/2023: *Congratulation!* Our work on multimodality-based congestion prediction has been accepted by ICCAD!
 ~~~
 
 
 == Research Interest
-- AI in EDA
+- Model Compression
+- AI for EDA
 - VLSI Placement
 
 == Publication
+=== Journal Papers
+#
+- \[J1\] *Lancheng Zou\**, Su Zheng\*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+=== Conference Papers
 #
 - \[C4\] *Lancheng Zou*, Wenqian Zhao, Shuo Yin, Chen Bai, Qi Sun, Bei Yu, "BiE: Bi-Exponent Block Floating-Point for Large Language Models Quantization", International Conference on Machine Learning (ICML), Vienna, Jul. 21–27, 2024.
 #
