@@ -39,7 +39,9 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 == Publication
 === Journal Papers
 #
-- \[J1\] *Lancheng Zou\**, Su Zheng\*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2024.
+- \[J2\] Wenqian Zhao, *Lancheng Zou*, Zixiao Wang, Xufeng Yao, Bei Yu, "HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2025.
+#
+- \[J1\] *Lancheng Zou\**, Su Zheng\*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 === Conference Papers
 #
 - \[C5\] Yuxuan Zhao, *Lancheng Zou*, Bei Yu, "Physical Design for Advanced 3D ICs: Challenges and Solutions", ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025. (*Invited Paper*)
