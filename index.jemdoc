@@ -25,6 +25,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Recent News
 ~~~
+- June/2025: *Congratulation!* Our work Oiso has been accepted by TCAD!
 - Dec/2024: *Congratulation!* Our TCAD version of Lay-Net has been accepted!
 - May/2024: *Congratulation!* Our work on LLM Quantization has been accepted by ICML!
 - Jul/2023: *Congratulation!* Our work on multimodality-based congestion prediction has been accepted by ICCAD!
@@ -38,6 +39,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Journal Papers
+#
+- \[J3\] *Lancheng Zou*, Shuo Yin, Mingjun Li, Mingzi Wang, Wenqian Zhao, Bei Yu, "Oiso: Outlier-isolated Data Format for Low-bit Large Language Model Quantization", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 #
 - \[J2\] Wenqian Zhao, *Lancheng Zou*, Zixiao Wang, Xufeng Yao, Bei Yu, "HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2025.
 #
