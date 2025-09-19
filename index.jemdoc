@@ -9,7 +9,7 @@
 {}{img_left}{img/zlc.jpg}{}{150}{Lancheng ZOU}
 = Lancheng ZOU (邹岚丞)
 
-*Ph.D. Student*  
+*Ph.D. Candidate*  
 [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
 *Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] \n
@@ -21,10 +21,11 @@
 
 
 == Biography
-I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] and co-supervised by [https://www.cse.cuhk.edu.hk/~farnia/ Prof. Farzan Farnia] since 2023 Fall. Prior to that, I obtained my B.Eng. degree in Electronic Information Engineering from [https://www.whu.edu.cn/ Wuhan University] in 2023.\n 
+I am a third-year Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] and co-supervised by [https://www.cse.cuhk.edu.hk/~farnia/ Prof. Farzan Farnia] since 2023 Fall. Prior to that, I obtained my B.Eng. degree in Electronic Information Engineering from [https://www.whu.edu.cn/ Wuhan University] in 2023.\n 
 
 == Recent News
 ~~~
+- Sept/2025: *Congratulation!* Our work on LLM pruning has been accepted by NeurIPS 2025!
 - June/2025: *Congratulation!* Our work Oiso has been accepted by TCAD!
 - Dec/2024: *Congratulation!* Our TCAD version of Lay-Net has been accepted!
 - May/2024: *Congratulation!* Our work on LLM Quantization has been accepted by ICML!
@@ -46,6 +47,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[J1\] *Lancheng Zou\**, Su Zheng\*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 === Conference Papers
+#
+- \[C6\] *Lancheng Zou*, Shuo Yin, Zehua Pei, Tsung-Yi Ho, Farzan Farnia, Bei Yu, "PermLLM: Learnable Channel Permutation for N:M Sparse Large Language Models", Neural Information Processing Systems (*NeurIPS*), San Diego, Dec. 02–07, 2025.
 #
 - \[C5\] Yuxuan Zhao, *Lancheng Zou*, Bei Yu, "Physical Design for Advanced 3D ICs: Challenges and Solutions", ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025. (*Invited Paper*)
 #
