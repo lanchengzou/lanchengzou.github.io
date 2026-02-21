@@ -41,6 +41,8 @@ I am a third-year Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department 
 == Publication
 === Journal Papers
 #
+- \[J4\] Shuo Yin, Ziyang Yu, Wenqian Zhao, *Lancheng Zou*, Jiahao Xu, Su Zheng, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, "FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2026.
+#
 - \[J3\] *Lancheng Zou*, Shuo Yin, Mingjun Li, Mingzi Wang, Wenqian Zhao, Bei Yu, "Oiso: Outlier-isolated Data Format for Low-bit Large Language Model Quantization", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 #
 - \[J2\] Wenqian Zhao, *Lancheng Zou*, Zixiao Wang, Xufeng Yao, Bei Yu, "HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2025.
