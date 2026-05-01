@@ -50,6 +50,10 @@ I am a third-year Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department 
 - \[J1\] *Lancheng Zou\**, Su Zheng\*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 === Conference Papers
 #
+- \[C9\] Mingzi Wang, *Lancheng Zou*, Shuo Yin, Zhuolun He, Bei Yu, "S-Quant: Rethinking Weight Quantization with Seed-Based Generation", International Conference on Machine Learning (*ICML*), Seoul, July 06–11, 2026.
+#
+- \[C8\] Zehua Pei, Hui-Ling Zhen, *Lancheng Zou*, Xianzhi Yu, Wulong Liu, Sinno Jialin Pan, Mingxuan Yuan, Bei Yu, "Analytical FFN-to-MoE Restructuring via Activation Pattern Analysis", Association for Computational Linguistics (*ACL*), San Diego, July 2–7, 2026.
+#
 - \[C7\] *Lancheng Zou*, Sing Sen YE, Shuo Yin, Yuan Pu, Jiaxi Jiang, Siting Liu, Yuxuan Zhao, Bei Yu, "IncreMacro-3D: Incremental Macro Placement for Face-to-Face Stacked Memory-on-Logic 3D ICs", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
 #
 - \[C6\] *Lancheng Zou*, Shuo Yin, Zehua Pei, Tsung-Yi Ho, Farzan Farnia, Bei Yu, "PermLLM: Learnable Channel Permutation for N:M Sparse Large Language Models", Neural Information Processing Systems (*NeurIPS*), San Diego, Dec. 02–07, 2025.
