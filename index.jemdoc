@@ -50,6 +50,10 @@ I am a third-year Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department 
 - \[J1\] *Lancheng Zou\**, Su Zheng\*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 === Conference Papers
 #
+- \[C11\] Xiangfei Hu, *Lancheng Zou*, Xilong Kang, Yuchen Liu, Jiajie Xu, Tairan Cheng, Yuyang Ye, Chang Meng, Hao Yan, Bei Yu, "PeLog: Rotation-Assisted Logarithmic Encoding for Low-Bit Large Language Model Quantization", International Conference on Computer-Aided Design (*ICCAD*), San Jose, Nov. 08–12, 2026.
+# 
+- \[C10\] Mingjun Wang, *Lancheng Zou*, Guanqi Li, Feng Gu, Yuntao Lu, Tianmeng Yang, Boyu Han, Jianan Mu, Huawei Li, Sung Kyu Lim, Bei Yu, "Distill3D: Cross-Stage Knowledge Distillation for Early-Stage 3D IC Timing Prediction", International Conference on Computer-Aided Design (*ICCAD*), San Jose, Nov. 08–12, 2026.
+#
 - \[C9\] Mingzi Wang, *Lancheng Zou*, Shuo Yin, Zhuolun He, Bei Yu, "S-Quant: Rethinking Weight Quantization with Seed-Based Generation", International Conference on Machine Learning (*ICML*), Seoul, July 06–11, 2026.
 #
 - \[C8\] Zehua Pei, Hui-Ling Zhen, *Lancheng Zou*, Xianzhi Yu, Wulong Liu, Sinno Jialin Pan, Mingxuan Yuan, Bei Yu, "Analytical FFN-to-MoE Restructuring via Activation Pattern Analysis", Association for Computational Linguistics (*ACL*), San Diego, July 2–7, 2026.
