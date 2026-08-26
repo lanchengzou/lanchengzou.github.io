@@ -34,12 +34,14 @@ I am a third-year Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department 
 
 
 == Research Interest
-- Model Compression
-- AI for EDA
-- VLSI Placement
+- Efficient ML
+- ML System
+- 3D ICs
 
 == Publication
 === Journal Papers
+#
+- \[J5\] Yihan Wen, *Lancheng Zou*, Tianshu Hou, Bei Yu, "Power Trace-driven 3D-IC Floorplanning", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2026.
 #
 - \[J4\] Shuo Yin, Ziyang Yu, Wenqian Zhao, *Lancheng Zou*, Jiahao Xu, Su Zheng, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, "FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2026.
 #
